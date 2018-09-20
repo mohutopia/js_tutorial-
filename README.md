@@ -1,2 +1,3 @@
-# js_tutorial-
-Learning JavaScript
+# JAVASCRIPT
+
+## Online tutorial to learn the JavaScript programming language
